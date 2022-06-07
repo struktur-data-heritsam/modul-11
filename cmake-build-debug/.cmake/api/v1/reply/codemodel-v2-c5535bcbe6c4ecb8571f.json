@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "STD_1305213031_MOD11_JURNAL_ARN",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "STD_1305213031_MOD11_JURNAL_ARN::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-STD_1305213031_MOD11_JURNAL_ARN-Debug-f3611953d5befb18a4c8.json",
+					"name" : "STD_1305213031_MOD11_JURNAL_ARN",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/heritsam/Documents/CProjects/STD_1305213031_MOD11_JURNAL_ARN/cmake-build-debug",
+		"source" : "/Users/heritsam/Documents/CProjects/STD_1305213031_MOD11_JURNAL_ARN"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
